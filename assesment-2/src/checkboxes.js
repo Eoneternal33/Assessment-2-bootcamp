@@ -4,6 +4,7 @@ const CheckBoxes = (props) => {
         <div>
             <form>
                 <h1> I panicked  </h1>
+                {/* spent too much time going over previous code and not breaking it down to not panic*/}
                 <label>
                     user:{""}
                     <input placeholder="little to late"/>
